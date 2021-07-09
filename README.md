@@ -33,5 +33,5 @@ Utilizei os seguintes requisitos para a execução do projeto:
 ```
 localhost:8081/swagger-ui -- endereço usado para ver a documentação swagger
 ```
-
+![print swagger](https://user-images.githubusercontent.com/78483210/125092607-e28d3f80-e0a7-11eb-998f-de1d2ac5e79a.png)
 
